@@ -42,7 +42,7 @@ footer: `≡ Lista de Opciones
 *${usedPrefix}disable* welcome
 ${author}`,
 title: null,
-buttonText: "𝐒𝐄𝐋𝐄𝐂𝐂𝐈𝐎𝐍𝐄 𝐀𝐐𝐔𝐢",
+buttonText: "(っ◔◡◔)っ♥click aqui♥",
 sections }
 
   let isEnable = /true|enable|(turn)?on|1/i.test(command)
